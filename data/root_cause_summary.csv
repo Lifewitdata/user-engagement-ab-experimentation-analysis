@@ -1,0 +1,9 @@
+driver,category,effect_size,evidence
+Question word count,User behavior / content,+9.8pp quality rate (long vs short); regression: +50 words = +29% upvotes,"Step 2 EDA, Step 3 H1 (p=2.6e-74) and linear regression (p<2e-16)"
+Experiment treatment (variant),Experiment response,"+3.7pp quality rate (causal ATE, 95% CI [2.8,4.7]pp)",Step 3 A/B test + Step 4 causal regression adjustment
+Overall platform activity level,User behavior,rho=0.52 with questions asked; NOT correlated with quality (r=0.02),"Step 2 EDA, Step 3 H6 (p<2.2e-16)"
+Asker vs never-ask segment,User segment,12.7% never ask despite avg 14.7 activity events (vs 18.4 for askers),"Step 2 EDA, Step 3 H4 (p=6.7e-174)"
+Device type,User segment,No significant effect on asking rate (p=0.94) or quality (regression n.s.),"Step 2 EDA, Step 3 H3, logistic regression"
+Country,User segment,"No significant effect after formal testing (p=0.51, Cramer's V=0.01)",Step 3 H2 (corrects looser Step 2 EDA read)
+Account tenure (new vs established),New vs established users,"No significant difference in asking rate (p=0.90) or question volume (r=-0.006, p=0.48)",Step 4 root-cause cut + Step 3 logistic regression
+Content topic,Content category,Volume varies widely (2x); quality rate flat (68-71%) across topics,"Step 2 EDA, kpi_by_topic"

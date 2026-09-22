@@ -1,0 +1,10 @@
+kpi,definition,data_source
+Daily/Weekly/Monthly Active Users (DAU/WAU/MAU),Distinct users with >=1 activity event in the period,user_activity_clean
+Active days per user (session proxy),"Distinct calendar days with >=1 activity event, per user. Proxy for 'sessions' - no true session boundary exists in the data.",user_activity_clean
+Engagement span (time-spent proxy),Days between a user's first and last question (or activity). NOT literal time-on-site; no timestamp/duration field exists.,questions_clean / user_activity_clean
+Question-asking rate,% of users who asked at least one question,user_level_analytical
+Questions per user,"Mean/median total questions asked per user (all users, and among askers only)",user_level_analytical
+Return-visit rate,% of users active in an early period who are also active in a later period; also week-over-week retention,user_activity_clean
+Views/Answers/Upvotes per question,Mean engagement received per question asked,questions_clean
+Quality-answer rate,% of questions that received a 'quality' answer (got_quality_answer),questions_clean
+Activity mix,Share of all logged events that are ask / view / answer / upvote,user_activity_clean

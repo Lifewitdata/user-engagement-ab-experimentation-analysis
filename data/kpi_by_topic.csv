@@ -1,0 +1,11 @@
+topic,n_questions,mean_word_count,mean_views,mean_upvotes,quality_rate
+technology,6049,41.2,23.4,6.3,0.693
+relationships,4578,40.9,23.4,6.5,0.71
+career,4194,41,23.3,6.1,0.685
+science,3876,40.4,23.3,6.5,0.7
+education,3401,40.4,23.4,6.3,0.698
+finance,3306,40.4,23.4,6.2,0.691
+health,3294,41,23.3,6.3,0.689
+travel,3024,40.7,23.4,6.4,0.714
+sports,3019,41.2,23.2,6.2,0.684
+politics,2978,40.8,23.4,6.4,0.703

@@ -1,0 +1,4 @@
+device_type,n_users,asker_rate,mean_questions,mean_quality_rate,mean_activity_events
+desktop,3798,0.872,3.16,0.694,18
+mobile,7464,0.872,3.12,0.695,17.9
+tablet,738,0.877,3.26,0.693,17.9

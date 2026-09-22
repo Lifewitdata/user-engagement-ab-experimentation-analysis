@@ -1,0 +1,5 @@
+engagement_tier,n_users,mean_activity_events,mean_questions,mean_quality_rate
+Q1 (lowest),3000,12.2,1.57,0.681
+Q2,3000,16.1,2.38,0.693
+Q3,3000,19.2,3.15,0.697
+Q4 (highest),3000,24.3,5.48,0.704

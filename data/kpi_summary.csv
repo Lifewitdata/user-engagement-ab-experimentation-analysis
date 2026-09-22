@@ -1,0 +1,15 @@
+kpi,value
+Mean DAU,3116
+Mean WAU,10309
+"Users active at least once (of 12,000)",12000
+Mean active days per user (session proxy),15.58
+Median active days per user,15
+Question-asking rate,87.3%
+Mean questions per user (all),3.14
+Mean questions per user (askers only),3.6
+2-period return-visit rate,100%
+Mean week-over-week retention rate,86.4%
+Mean views per question,23.35
+Mean answers per question,1.38
+Mean upvotes per question,6.32
+Overall quality-answer rate,69.7%

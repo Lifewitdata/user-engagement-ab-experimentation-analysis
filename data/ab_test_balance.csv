@@ -1,0 +1,4 @@
+covariate,test,statistic,p_value,balanced
+account_age_at_assignment_days,Welch t-test,-0.9874572573880219,0.3234384539175571,TRUE
+country,Chi-square,5.721428938628424,0.5726268349121421,TRUE
+device_type,Chi-square,7.281438136542963,0.026233473523471443,FALSE
